@@ -1,0 +1,22 @@
+*{
+
+    margin: 0px;
+
+}
+
+header{
+
+    background-color: black;
+
+    color: white;
+    text-align: center;
+
+}
+
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/loja-de-roupas-com-efecto-turva_23-2148164891.jpg?w=2000);
+background-size: cover;}
+
+table{
+    width: 500px;
+}
